@@ -1,5 +1,7 @@
 # Softing OPC Classic SDK
 
+> Forked to make sure that the SDK code is not lost as the library needs to be recompiled every time.
+
 ### Introduction
 This repositiory contains the discontinued product dataFEED OPC Classic SDK from Softing. This product can be used to create OPC DA/AE Server and Client applications in C++, C# or Visual Basic .NET.
 The SDK supports the following OPC Specifications
